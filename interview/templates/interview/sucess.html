@@ -1,0 +1,38 @@
+{% extends 'bot/base.html' %}
+{% load static %}
+{% block content %}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Finished</title>
+
+	<style type="text/css">
+		.row{
+			text-align: center;
+			padding-top: 100px;
+
+		}
+		button{
+			width: 30%;
+			
+		}
+		a{
+			padding-top: 100px;
+		}
+	</style>
+</head>
+<body>
+	
+	<div class="container-fluid">
+		<div class="row">
+			<h2>Congratulations on completing the Interview. You may log out from the application.</h2>
+	
+			<a href="{% url 'logout' %}"><button class="btn btn-lg btn-dark"> Log Out</button></a>
+		</div>
+	</div>
+	
+</body>
+</html>
+
+
+{% endblock %}

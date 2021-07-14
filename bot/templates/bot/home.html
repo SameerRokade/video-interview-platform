@@ -1,0 +1,41 @@
+{% extends 'bot/base.html' %}
+{% load static %}
+{% block content %}
+	
+
+
+<html>
+<head>
+	<title>Home</title>
+	<style type="text/css">
+		
+		.row{
+			text-align: center;
+			padding-top: 150px;
+		}
+		h2{
+			padding: 30px;
+		}
+		button{
+			width: 50%;
+		}
+
+	</style>
+</head>
+<body> 
+	<div class="container-fluid">
+		<div class="row">
+			<h1>Welcome to the Video Interview Platform</h1>
+			<h2>Congratulations for being invited to the video interview. This video will consist of questions and each question will have limited minutes of response time. All the questions will be asked by a bot. Please follow the instructions according to the bot and complete the interview in one go. We wish you all the best for this interview.  </h2>
+			<a href="{% url 'index'%}"><button class="btn btn-dark btn-lg">Start Interview</button></a>
+		</div>
+	</div>
+	
+
+</body>
+</html>
+
+
+
+
+{% endblock %}

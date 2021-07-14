@@ -1,0 +1,809 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"coo",
+				"coordmat"
+			],
+			[
+				"Po",
+				"Polybase"
+			],
+			[
+				"self",
+				"self"
+			],
+			[
+				"se",
+				"set_thetad"
+			],
+			[
+				"co",
+				"coord1"
+			],
+			[
+				"__",
+				"__init__\tinit"
+			],
+			[
+				"bt",
+				"btn-lg \tBootstrap 4.4"
+			],
+			[
+				"btn",
+				"btn-lg \tBootstrap 4.4"
+			],
+			[
+				"video",
+				"videoplayer"
+			],
+			[
+				"quest",
+				"questions"
+			],
+			[
+				"q",
+				"question_text"
+			],
+			[
+				"que",
+				"questions"
+			],
+			[
+				"qu",
+				"question"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"widt",
+				"width\tproperty"
+			],
+			[
+				"MEDIA",
+				"MEDIA_URL"
+			],
+			[
+				"in",
+				"interview"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"User",
+				"User"
+			],
+			[
+				"Model",
+				"ModelForm\tModelForm"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"text",
+				"text-white \tBootstrap 4.4"
+			],
+			[
+				"bg",
+				"bg-dark \tBootstrap 4.4"
+			],
+			[
+				"h",
+				"h-25 \tBootstrap 4.4"
+			],
+			[
+				"w",
+				"w-100 \tBootstrap 4.4"
+			],
+			[
+				"form",
+				"form-group \tBootstrap 4.4"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"text-",
+				"text-white \tBootstrap 4.4"
+			],
+			[
+				"ve",
+				"views"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"crea",
+				"created"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"Cust",
+				"CustomerForm"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"wrapper",
+				"wrapper_function"
+			],
+			[
+				"gru",
+				"group"
+			],
+			[
+				"gruo",
+				"groups"
+			],
+			[
+				"all",
+				"allowed_roles"
+			],
+			[
+				"US",
+				"UserCreationForm"
+			],
+			[
+				"Order",
+				"OrderFormSet"
+			],
+			[
+				"b",
+				"btn \tBootstrap 4.4"
+			],
+			[
+				"order",
+				"order_form"
+			],
+			[
+				"Or",
+				"OrderForm"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"orse",
+				"orders"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"de",
+				"delivered"
+			],
+			[
+				"or",
+				"total_orders"
+			],
+			[
+				"tota",
+				"total_orders"
+			],
+			[
+				"total",
+				"total_customers"
+			],
+			[
+				"orders",
+				"orders"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"P",
+				"PizzaForm"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"card",
+				"card-img \tBootstrap 4.4"
+			],
+			[
+				"btn-",
+				"btn-outline-info \tBootstrap 4.4"
+			],
+			[
+				"bad",
+				"badge-pill \tBootstrap 4.4"
+			],
+			[
+				"m",
+				"m-auto \tBootstrap 4.4"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"Question",
+				"QuestionAdmin"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"lo",
+				"login_required"
+			],
+			[
+				"as",
+				"as_view"
+			],
+			[
+				"Use",
+				"UserCreationForm"
+			],
+			[
+				"alert-se",
+				"alert-success \tBootstrap 4.4"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"btn-out",
+				"btn-outline-info \tBootstrap 4.4"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"Htt",
+				"httpResponse"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"get",
+				"getName"
+			],
+			[
+				"ge",
+				"getDescription"
+			],
+			[
+				"input",
+				"inputValue"
+			],
+			[
+				"inde",
+				"indices"
+			],
+			[
+				"dou",
+				"double_str"
+			],
+			[
+				"stri",
+				"string2"
+			],
+			[
+				"str",
+				"string1"
+			],
+			[
+				"spl",
+				"split"
+			],
+			[
+				"f",
+				"freq"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"ce",
+				"justify-content-center \tBootstrap 4.4"
+			],
+			[
+				"l",
+				"solid\tborder"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"ligh",
+				"bg-light \tBootstrap 4.4"
+			],
+			[
+				"align-t",
+				"align-text-bottom \tBootstrap 4.4"
+			],
+			[
+				"text-c",
+				"text-center \tBootstrap 4.4"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"borde",
+				"table-borderless \tBootstrap 4.4"
+			],
+			[
+				"bord",
+				"border-top-0 \tBootstrap 4.4"
+			],
+			[
+				"bu",
+				"badge-success \tBootstrap 4.4"
+			],
+			[
+				"align",
+				"align-middle \tBootstrap 4.4"
+			],
+			[
+				"w-",
+				"w-75 \tBootstrap 4.4"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"con",
+				"container-fluid \tBootstrap 4.4"
+			],
+			[
+				"hi",
+				"hiddenNumber"
+			],
+			[
+				"ma",
+				"matches"
+			],
+			[
+				"a",
+				"all_pairs"
+			],
+			[
+				"ju",
+				"justify-content-md-center \tBootstrap 4.4"
+			],
+			[
+				"whi",
+				"text-white \tBootstrap 4.4"
+			],
+			[
+				"fon",
+				"font-weight-normal \tBootstrap 4.4"
+			],
+			[
+				"ali",
+				"align-content-end \tBootstrap 4.4"
+			],
+			[
+				"font",
+				"font-weight-bolder \tBootstrap 4.4"
+			],
+			[
+				"bag",
+				"badge-dark \tBootstrap 4.4"
+			],
+			[
+				"bg-",
+				"bg-dark \tBootstrap 4.4"
+			],
+			[
+				"dis",
+				"display-3 \tBootstrap 4.4"
+			],
+			[
+				"jus",
+				"justify-content-md-center \tBootstrap 4.4"
+			],
+			[
+				"just",
+				"justify-content-md-between \tBootstrap 4.4"
+			],
+			[
+				"cen",
+				"align-content-md-center \tBootstrap 4.4"
+			],
+			[
+				"col",
+				"col-md \tBootstrap 4.4"
+			],
+			[
+				"ro",
+				"row \tBootstrap 4.4"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fi",
+				"findPairs"
+			],
+			[
+				"k",
+				"K"
+			],
+			[
+				"t",
+				"tbody\tTag"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"png",
+				"png"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"bod",
+				"border\tproperty"
+			],
+			[
+				"text-ali",
+				"text-align\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 238.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Python Programs/final_project/django_bot/django_bot/urls.py",
+		"/D/Python Programs/hackerrankPractice.py",
+		"/D/Python Programs/final_project/django_bot/bot/views.py",
+		"/D/Python Programs/final_project/django_bot/django_bot/settings.py",
+		"/D/Python Programs/django_crm/accounts/forms.py",
+		"/D/Python Programs/django_crm/django_crm/settings.py",
+		"/D/Python Programs/django_crm/django_crm/urls.py",
+		"/D/Python Programs/django_crm/accounts/templates/accounts/login.html",
+		"/D/Python Programs/django_crm/accounts/templates/accounts/navbar.html",
+		"/D/Python Programs/django_crm/accounts/templates/accounts/register.html",
+		"/D/Python Programs/django_crm/accounts/templates/accounts/decorators.py",
+		"/D/Python Programs/django_crm/accounts/templates/accounts/main.html",
+		"/D/Python Programs/django_crm/accounts/templates/accounts/order_form.html",
+		"/D/Python Programs/django_crm/accounts/templates/accounts/delete.html",
+		"/D/Python Programs/django_crm/accounts/filters.py",
+		"/D/Python Programs/django_crm/accounts/templates/accounts/status.html",
+		"/D/Python Programs/django_crm/accounts/templates/accounts/products.html",
+		"/D/Python Programs/django_crm/accounts/templates/accounts/customer.html",
+		"/D/Python Programs/django_crm/accounts/models.py",
+		"/D/Python Programs/django_crm/accounts/admin.py",
+		"/D/Python Programs/codevita_1.py",
+		"/D/Python Programs/codevita_1Copy.py",
+		"/C/Users/User/Desktop/UWSU Front End Dev role/Work/w3.css",
+		"/D/Python Programs/codevita_1",
+		"/D/Python Programs/django_crm/static/css/main.css",
+		"/D/Python Programs/django_crm/accounts/views.py",
+		"/D/Python Programs/django_crm/accounts/urls.py",
+		"/D/Python Programs/django_crm/accounts/templates/accounts/dashboard.html",
+		"/D/Python Programs/nandiasgarden/nandiasgarden/urls.py",
+		"/D/Python Programs/nandiasgarden/nandiasgarden/settings.py",
+		"/D/Python Programs/nandiasgarden/pizza/views.py",
+		"/D/Python Programs/nandiasgarden/pizza/templates/pizza/home.html",
+		"/D/Python Programs/nandiasgarden/pizza/templates/pizza/order.html",
+		"/D/Python Programs/nandiasgarden/pizza/models.py",
+		"/D/Python Programs/nandiasgarden/pizza/admin.py",
+		"/D/Python Programs/nandiasgarden/pizza/forms.py",
+		"/D/Python Programs/portfolio_django/portfolio_django/urls.py",
+		"/D/Python Programs/portfolio_django/jobs/admin.py",
+		"/D/Python Programs/portfolio_django/portfolio_django/settings.py",
+		"/D/Python Programs/portfolio_django/jobs/models.py",
+		"/D/Python Programs/portfolio_django/jobs/views.py",
+		"/D/Python Programs/portfolio_django/jobs/templates/jobs/detail.html",
+		"/D/Python Programs/portfolio_django/jobs/templates/jobs/home.html",
+		"/C/Users/User/Desktop/UWSU Front End Dev role/Work/boot.css",
+		"/D/Python Programs/portfolio_django/jobs/templates/jobs/sam.html",
+		"/D/Python Programs/pollster/templates/pages/index.html",
+		"/D/Python Programs/pollster/pollster/urls.py",
+		"/D/Python Programs/pollster/templates/partials/_navbar.html",
+		"/D/Python Programs/pollster/polls/models.py",
+		"/D/Python Programs/pollster/polls/admin.py",
+		"/D/Python Programs/pollster/polls/views.py",
+		"/D/Python Programs/pollster/polls/urls.py",
+		"/D/Python Programs/pollster/templates/polls/results.html",
+		"/D/Python Programs/pollster/templates/polls/detail.html",
+		"/D/Python Programs/pollster/templates/base.html",
+		"/D/Python Programs/pollster/pages/views.py",
+		"/D/Python Programs/pollster/pages/urls.py",
+		"/D/Python Programs/pollster/templates/polls/index.html",
+		"/D/Python Programs/pollster/pollster/settings.py",
+		"/D/Python Programs/pollster/polls/templates/polls/index.html",
+		"/D/Python Programs/pollster/polls/index.html",
+		"/D/Python Programs/django_project/users/templates/users/login.html",
+		"/D/Python Programs/django_project/users/templates/users/logout.html",
+		"/D/Python Programs/django_project/users/templates/users/register.html",
+		"/D/Python Programs/django_project/users/forms.py",
+		"/D/Python Programs/django_project/blog/templates/blog/base.html",
+		"/D/Python Programs/django_project/django_project/urls.py",
+		"/D/Python Programs/django_project/users/models.py",
+		"/D/Python Programs/django_project/users/views.py",
+		"/D/Python Programs/django_project/blog/templates/blog/home.html",
+		"/D/Python Programs/django_project/users/apps.py",
+		"/D/Python Programs/django_project/users/signals.py",
+		"/D/Python Programs/django_project/users/templates/users/profile.html",
+		"/D/Python Programs/django_project/django_project/settings.py",
+		"/D/Python Programs/django_project/users/admin.py",
+		"/D/Python Programs/django_project/blog/urls.py",
+		"/D/Python Programs/django_project/blog/views.py",
+		"/D/Python Programs/django_project/blog/admin.py",
+		"/D/Python Programs/django_project/blog/models.py",
+		"/D/Python Programs/django_project/blog/templates/blog/about.html",
+		"/D/Python Programs/django_project/blog/static/blog/main.css",
+		"/D/Python Programs/django_project/blog/migrations/0001_initial.py",
+		"/D/Python Programs/django_project/blog/apps.py",
+		"/D/Python Programs/django_project/django_project/__init__.py",
+		"/D/Python Programs/django_project/manage.py",
+		"/D/Python Programs/Django_project/manage.py",
+		"/C/Users/User/Desktop/UWSU Front End Dev role/Work/elections/elections_landing.html",
+		"/C/Users/User/Desktop/songs/sandesh website/New site/style.css",
+		"/C/Users/User/Desktop/songs/sandesh website/New site/home.html",
+		"/C/Users/User/Desktop/Yeola paithani/style.css",
+		"/C/Users/User/Desktop/Yeola paithani/home.html",
+		"/D/Python Programs/Mockvita.py",
+		"/D/Python Programs/tejasTask.py",
+		"/D/Python Programs/tejasTask2.py",
+		"/D/Python Programs/progSoc.py",
+		"/C/Users/User/Desktop/UWSU Front End Dev role/Work/Movember/movember2.html",
+		"/C/Users/User/Desktop/UWSU Front End Dev role/Work/Movember/style.css",
+		"/C/Users/User/Desktop/UWSU Front End Dev role/Work/Movember/movember.html",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/KiteSublime/KiteSublime.sublime-settings",
+		"/C/Users/User/Desktop/UWSU Front End Dev role/Work/#UWSUActive task/active.html",
+		"/C/Users/User/Desktop/UWSU Front End Dev role/Work/#UWSUActive task/active2.html",
+		"/C/Users/User/Desktop/UWSU Front End Dev role/Work/#UWSUActive task/w.html",
+		"/C/Users/User/Desktop/New Text Document (2).txt",
+		"/C/Users/User/Desktop/songs/sandesh website/templatemo_546_sixteen_clothing/templatemo_546_sixteen_clothing/index.html",
+		"/D/Downloaded/infinite-slider.css",
+		"/D/Infosys SOI/rough.py",
+		"/C/Users/User/Desktop/uwsu front end test/frontend test.html",
+		"/D/Python Programs/YoutubeDownloader.py",
+		"/D/Infosys SOI/practice.py",
+		"/D/Infosys SOI/gettingGtlabData.py",
+		"/D/Infosys SOI/subPy.py",
+		"/C/Users/User/Desktop/frontend test.html",
+		"/D/Infosys SOI/gettingGithubData.py",
+		"/C/Users/User/Desktop/songs/sandesh website/templatemo_546_sixteen_clothing/templatemo_546_sixteen_clothing/assets/css/templatemo-sixteen.css",
+		"/C/Users/User/Desktop/songs/sandesh website/templatemo_546_sixteen_clothing/templatemo_546_sixteen_clothing/clients.html",
+		"/C/Users/User/Desktop/songs/sandesh website/templatemo_546_sixteen_clothing/templatemo_546_sixteen_clothing/contact.html",
+		"/C/Users/User/Desktop/songs/sandesh website/templatemo_546_sixteen_clothing/templatemo_546_sixteen_clothing/about.html",
+		"/C/Users/User/Desktop/songs/sandesh website/templatemo_546_sixteen_clothing/templatemo_546_sixteen_clothing/products.html",
+		"/C/Users/User/Desktop/songs/sandesh website/templatemo_546_sixteen_clothing/templatemo_546_sixteen_clothing/vendor/bootstrap/js/bootstrap.bundle.js",
+		"/C/Users/User/Desktop/songs/sandesh website/templatemo_546_sixteen_clothing/templatemo_546_sixteen_clothing/vendor/bootstrap/js/bootstrap.bundle.min.js",
+		"/C/Users/User/Desktop/songs/sandesh website/templatemo_546_sixteen_clothing/templatemo_546_sixteen_clothing/assets/css/flex-slider.css",
+		"/C/Users/User/Desktop/songs/sandesh website/templatemo_546_sixteen_clothing/templatemo_546_sixteen_clothing/vendor/bootstrap/css/bootstrap.css",
+		"/C/Users/User/Desktop/songs/sandesh website/templatemo_546_sixteen_clothing/templatemo_546_sixteen_clothing/vendor/bootstrap/css/bootstrap.min.css",
+		"/D/Uni studies/Year 2/Programming Principles/CordisUI/mysql-connector-java-8.0.19.jar",
+		"/C/Users/User/Desktop/Clock",
+		"/D/nexern/nextern2019/intro.html",
+		"/D/nexern/nextern2019/packages.html",
+		"/D/nexern/nextern2019/samcv.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"collections"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 121.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "urls.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

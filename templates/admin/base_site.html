@@ -1,0 +1,51 @@
+{% extends 'admin/base.html' %}
+{% load static %}
+
+{% block branding %}
+<h1 id="head">
+    <!-- <img src="{% static 'images/logoo.png' %}"  height="80" class="brand_img"> -->
+    <strong>Django Bot ®</strong> Admin-dashboard
+</h1>
+{% endblock %}
+
+{% block extrastyle %}
+<style>
+    #header {
+        background-image: linear-gradient(147deg, #000000 0%, #272525 74%) !important;
+        color: white;
+        height: 50px;
+    }
+
+    #branding h1 {
+        color: white;
+    }
+
+    div.breadcrumbs {
+        background: white !important;
+    }
+
+    .button,
+    input[type=submit],
+    input[type=button],
+    .submit-row input,
+    a.button {
+        background: black;
+    }
+
+    div.breadcrumbs a {
+        color: black;
+        font-weight: bold;
+    }
+
+    .module h2,
+    .module caption,
+    .inline-group h2 {
+        background-image: linear-gradient(147deg, #000000 0%, #434343 74%) !important;
+    }
+
+    #content-related .module h2 {
+        color: white !important;
+
+    }
+</style>
+{% endblock %}
